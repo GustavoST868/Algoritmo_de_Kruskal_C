@@ -40,7 +40,5 @@ void Kruskal(){
 
 int main()
 {
-    
-
     return 0;
 }
